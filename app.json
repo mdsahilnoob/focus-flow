@@ -12,7 +12,7 @@
     },
     "android": {
       "icon": "./assets/images/icon.png",
-      "package": "com.noobai.focusflow",
+      "package": "com.noobai.focustracker",
       "versionCode": 1,
       "predictiveBackGestureEnabled": true
     },
