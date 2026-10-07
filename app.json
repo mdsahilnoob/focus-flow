@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "FocusFlow",
+    "name": "Focus Flow",
     "slug": "focusflow",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -12,7 +12,7 @@
     },
     "android": {
       "icon": "./assets/images/icon.png",
-      "package": "com.noobai.focustracker",
+      "package": "com.noobai.focusflow",
       "versionCode": 1,
       "predictiveBackGestureEnabled": true
     },
