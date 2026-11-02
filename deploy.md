@@ -240,4 +240,4 @@ Check that the new bundle has a higher `versionCode`, uses the same signing cred
 Notifications are intentionally disabled for the current Expo Go-compatible build. Reintroduce them only after switching notification testing to an Expo development build, following the SDK 57 notification documentation: <https://docs.expo.dev/versions/v57.0.0/sdk/notifications/>.
 
 
-need to fix
+need to fixx
