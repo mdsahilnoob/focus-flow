@@ -241,3 +241,5 @@ Notifications are intentionally disabled for the current Expo Go-compatible buil
 
 
 need to fixx
+
+new features incoming
